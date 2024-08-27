@@ -1,0 +1,35 @@
+{
+    "home": {
+        "principalMenu": "Menú Principal - Datos a Aprender",
+        "principalMenuNav": "Menu Principal",
+        "startLearning": "Iniciar Aprendizaje",
+        "pending": "Pendiente",
+        "requirements": "Requisitos",
+        "newData": "Dato nuevo",
+        "loading": "Cargando..."
+    },
+    "data": {
+
+   },
+    "misc": {
+        "verbs": {
+            "confirm": "Confirmar",
+            "cancel": "Cancelar",
+            "close": "Cerrar",
+            "accept": "Aceptar",
+            "start": "Empezar",
+            "next": "Siguiente",
+            "write": "ESCRIBE",
+            "learn": "Aprender",
+            "error": "ERROR"
+        },
+        "nouns": {
+            "finished": "Finalizado"
+        },
+        "adjetives": {
+            "right": "CORRECTO",
+            "wrong": "INCORRECTO"
+        }
+    }
+
+}
